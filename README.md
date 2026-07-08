@@ -1,85 +1,93 @@
 <!-- Name and Profession -->
-<h1 align="center">👨‍💻 Muhammad Haris Nisar</h1>
-<h3 align="center" style="color:blue;">Software Engineering Student</h3>
-<p align="center">Software Engineering undergraduate specializing in Quality Assurance and Software Testing, with hands-on experience in functional, regression, usability, and performance testing of web applications. Applies structured methodologies, including Function Point Analysis and scenario-based test design, to identify defects and validate system reliability before release. Works fluently within Agile delivery environments, having managed sprint planning, backlog tracking, and requirements documentation in Jira and Confluence, building a working understanding of how quality integrates into end-to-end software delivery. Certified in Business Analysis and Modern DevOps Practices (AWS).</p>
+<h1 align="center">Muhammad Haris Nisar</h1>
+<h3 align="center">Software Engineering Undergraduate — Quality Assurance & Agile Delivery</h3>
 
-<!-- Education -->
-## 📚 Education
-- Undergraduate in Software Engineering from # [![Air University MultanCampus](https://img.shields.io/badge/Air%20University-Multan-green)](https://aumc.edu.pk/)
+<p align="center">
+Software Engineering undergraduate specializing in Quality Assurance and Software Testing, with hands-on experience in functional, regression, usability, and performance testing of web applications. Applies structured methodologies — including Function Point Analysis and scenario-based test design — to identify defects and validate system reliability before release. Works fluently within Agile delivery environments, managing sprint planning, backlog tracking, and requirements documentation in Jira and Confluence. Certified in Business Analysis and Modern DevOps Practices (AWS).
+</p>
 
-<!-- Portfolio Website -->
-## 💼 Portfolio Website
-- [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-green)]()
+<p align="center">
+📧 harischf16@gmail.com &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/in/muhammad-haris">LinkedIn</a> &nbsp;|&nbsp; 📍 Multan, Pakistan
+</p>
 
-<!-- Interests -->
-## 🎯 Interests
-- Software Testing (Manual)
-- Software Project Management
-- DevOps
-- UIUX
-- Web & App Development
-- Artificial Intelligence
-- Robotics ( IoT )
+---
 
-  
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  </div>
+## Education
 
+[![Air University Multan Campus](https://img.shields.io/badge/Air%20University-Multan%20Campus-1F4E79?style=flat-square)](https://aumc.edu.pk/)
 
-### Others:
-  - Software Development Life Cycle (SDLC)
-  - Requirements Engineering
-  - Software Design (Diagramming)
-  - Object Oriented Programming
-  - Microsoft Access
-  - Microsoft Excel
-  - Microsoft PowerPoint
-  - Flowcharts
-  - Mysql
-  - Data Structures and Algorithms
+Bachelor of Software Engineering — Oct 2023 – Present
 
-<!-- Services I Offer -->
-## 💼 Services I Offer
-- Manual Software Testing & QA
-- Agile Project Management (Jira & Confluence)
-- UIUX Designing (Interactive User Friendly Interfaces)
-- Mobile App Development (Flutter & Firebase)
-- Web Application Development (MERN Stack)
-- REST API Development & Backend Integration
+---
 
-## 🛠Tools I Use:
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" alt="GitHub" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Powershell" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="TalwindCSS" width="150" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 50%;">
-    <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" style="border-radius: 50%;">/>
-</div>
+## Core Skills
 
-<!-- Hobbies -->
-## 🛠 Hobbies
-- Planning
-- Designing
-- Coding
-- Testing
-- Reading
-- Playing Cricket
-- DIY Robotics
+**Quality Assurance & Testing (Web)**
+Manual Testing · Functional Testing · Regression Testing · Usability Testing · Performance Testing · Test Case Design · Function Point Analysis (FPA) · Exploratory Testing
 
-<!-- Contact Details -->
-## 📧 Contact Details
-- Email: [![harischf16@gmail.com](https://img.shields.io/badge/Email-harischf16%40gmail.com-green)](mailto:harischf16@gmail.com)
+**Agile Delivery & Requirements**
+Agile/Scrum · Sprint Planning · Backlog Management · Requirements Analysis · Jira · Confluence
 
-<!-- Thank you message -->
-## 🙏 Thanks For Visiting
-<span style="font-size:18px; font-weight:bold">Regards,  
-Muhammad Haris Nisar</span>
+**Programming & Development**
+C++ · Java · Python (Intermediate) · Flutter (Dart) · HTML
+
+**Databases & Tools**
+MySQL · MS Access · Git & GitHub · VS Code · Figma · MS Office
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+**Also Exposed To** *(coursework / earlier semesters — not primary focus)*
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## Certifications
+
+- Business Analysis — Aug 2025
+- Modern DevOps Practices Powered by AWS — Jan 2026
+
+---
+
+## Areas of Focus
+
+- Software Testing & Quality Assurance
+- Agile Project Delivery
+- UI/UX Design
+- Applied AI (Retrieval-Augmented Generation)
+
+---
+
+## Featured Projects
+
+- **Invoice Generator — QA & Testing:** Functional, regression, usability, and performance testing with Function Point Analysis.
+- **Gentle Dose:** Medication-reminder Flutter app with caregiver monitoring; managed via Agile Scrum in Jira/Confluence.
+- **Smart Paper Analyst:** RAG-based research assistant (FastAPI) for document Q&A and semantic search.
+- **Cric Vision & Focus App:** UI/UX prototypes in Figma for AI-based cricket analysis and a distraction-blocking productivity app.
+
+*(Pin these repositories at the top of your GitHub profile so they're visible without scrolling.)*
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-harischf16%40gmail.com-1F4E79?style=flat-square&logo=gmail&logoColor=white)](mailto:harischf16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F4E79?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haris)
