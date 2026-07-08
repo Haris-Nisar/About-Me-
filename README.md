@@ -7,7 +7,7 @@ Software Engineering undergraduate specializing in Quality Assurance and Softwar
 </p>
 
 <p align="center">
-📧 harischf16@gmail.com &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/in/muhammad-haris">LinkedIn</a> &nbsp;|&nbsp; 📍 Multan, Pakistan
+📧 harischf16@gmail.com &nbsp;|&nbsp; 🔗 <a href="www.linkedin.com/in/muhammad-haris-b95ba3334">LinkedIn</a> &nbsp;|&nbsp; 📍 Multan, Pakistan
 </p>
 
 ---
