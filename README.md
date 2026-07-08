@@ -83,8 +83,6 @@ MySQL · MS Access · Git & GitHub · VS Code · Figma · MS Office
 - **Smart Paper Analyst:** RAG-based research assistant (FastAPI) for document Q&A and semantic search.
 - **Cric Vision & Focus App:** UI/UX prototypes in Figma for AI-based cricket analysis and a distraction-blocking productivity app.
 
-*(Pin these repositories at the top of your GitHub profile so they're visible without scrolling.)*
-
 ---
 
 ## Contact
